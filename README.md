@@ -12,11 +12,4 @@ For this tasks we require following Libraries
 
 You also need chrome driver - incase your native browser is chrome or gecko driver incase your browser is firefox.
 
-Basically the steps will include -
-1. initialising chrome in my case in selenium driver.
-2. entering the correct login credentials
-3. Posting a message on your timeline, you can either take input from user or directly send your message.
-4. From homepage jumping to your timeline.
-5. Scrolling through your friendlist and randomly selecting a friend and commenting on the most recent post.
-6. Sending friend request to a random person by using his/her username
-7. Logging out of facebook.
+
